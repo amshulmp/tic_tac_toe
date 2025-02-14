@@ -31,7 +31,7 @@ A simple two-player Tic Tac Toe game built using Flutter.
 
 | Home Screen | Game Board |
 |------------|------------|
-| ![Home Screen](tic-tac-toe.png) | ![Game Board](tic-tac-toe.png) |
+| ![Home Screen](https://res.cloudinary.com/db1obcnzm/image/upload/v1739518113/Untitled_design_10_-Photoroom_cdnjrc.png) | ![Game Board](tic-tac-toe.png](https://res.cloudinary.com/db1obcnzm/image/upload/v1739518167/Untitled_design__9_-removebg_od97om.png)) |
 
 ## 🚀 How to Play
 1. Start the game and play against another player locally.
